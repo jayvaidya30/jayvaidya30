@@ -21,7 +21,7 @@ Currently building tools and platforms that empower developers and online commun
 ## Skills & Tools
 
 - **Languages:** JavaScript · TypeScript · Python · SQL · HTML/CSS
-- **AI / LLM:** Claude API · Google Gemini API · OpenAI API · Prompt Engineering · Agentic AI · LLM Evaluation & Testing · Vector Databases
+- **AI / LLM:**  Prompt Engineering · Agentic AI · LLM Evaluation & Testing · Vector Databases
 - **Frameworks:** React · Next.js · Node.js · Express.js · Hono · Prisma · FastAPI
 - **Databases:** PostgreSQL · MongoDB · MySQL · Redis · Supabase
 - **Developer Tools:** Git · Docker · AWS (EC2, S3) · Vercel · Linux · Postman · Figma · VS Code
